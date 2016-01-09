@@ -25,7 +25,7 @@
   "support": {
     "email": "mdelisle@webonaute.ca",
     "issue": "https://github.com/Webonaute/DoctrineFixturesGeneratorBundle/issues",
-    "source": "https://github.com/Webonaute/DoctrineFixturesGeneratorBundle"
+    "source": "https://github.com/ibasaw/DoctrineFixturesGeneratorBundle"
   },
   "require": {
     "php": ">=5.3.3",
